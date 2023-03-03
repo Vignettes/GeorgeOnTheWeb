@@ -17,7 +17,7 @@ enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/vignettes/GeorgeOnTheWeb/edit/hugo
+GitHubLink: https://github.com/vignettes/GeorgeOnTheWeb/edit/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
