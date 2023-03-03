@@ -1,5 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://www.georgewolf.net/"
 languageCode = "en-us"
+title = "george@ot-web:$◻️"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
