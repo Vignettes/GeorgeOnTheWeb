@@ -4,17 +4,15 @@ enableToc: false
 tags: test
 ---
 > [!quote]
-> We're all just making it up as 
-> we go along. No one really knows 
-> what they're doing.
->- A.S. King
+> Confine yourself to the present. 
+>- Marcus Aurelius
 
-
-Fancy seeing you here on the Web!
+The [stoics](/notes/stoicism.md) advice seems to go against the modern world. 
+How does one live in the present when our lives demand a plan for the future, require big long-term projects and depend on people outside of our influence?
 
 ![me](https://i.ibb.co/2MycKDW/62-A4-E34-B-6-C02-47-FA-8-DD6-379-DAC7-DD624.jpg)
 
-My name is [George Wolf](/notes/George%20Wolf.md) and my passion is <em>encouraging innovation</em>.
+My name is [George Wolf](/notes/George%20Wolf.md) and my passion is <em>creating, enabling and encouraging innovation</em>.
 This site is my digital filing cabinet. 
 The trick is that I forgot to buy folders, but I did staple some files into packets. 
 
