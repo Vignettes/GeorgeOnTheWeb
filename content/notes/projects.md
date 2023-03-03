@@ -3,5 +3,6 @@ title: "Hobbies"
 tags: Projects
 ---
 [Home](/)
-# Will need to add content here.
+# Ideas
+- A script to upload markdown files to this repo, so that I do not have to use any tools but the script to submit content. 
 
