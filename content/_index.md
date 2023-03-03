@@ -1,6 +1,6 @@
 ---
 title: george@ot-web:$◻️
-enableToc: true
+enableToc: false
 ---
 
 ### Welcome to the web
