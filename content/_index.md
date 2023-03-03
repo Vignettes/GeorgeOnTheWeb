@@ -11,3 +11,5 @@ enableToc: false
 [Hobbies](/notes/hobbies.md)
 
 [Agility](/notes/agility.md)
+
+[Reflections](/notes/reflections.md)
