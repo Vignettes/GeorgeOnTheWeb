@@ -9,7 +9,7 @@ enableToc: false
 >- A.S. King
 
 Fancy seeing you here! 
-[!image](/images/193DF4FE-5386-4C05-9FAF-AC7143A84B3A.jpeg)
+![image](/images/193DF4FE-5386-4C05-9FAF-AC7143A84B3A.jpeg | 800)
 
 This site is my digital filing cabinet. 
 The trick is all the files have links, making digital rabbit holes even easier to chase. 
