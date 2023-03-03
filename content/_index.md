@@ -24,4 +24,4 @@ Which became a place to talk about [Projects](/notes/projects.md) and [Hobbies](
 
 And the [Reflections](/notes/reflections.md) keep me aligned to my values. 
 
-If you find something interesting and want to share feedback or connect reach out to me [@georgeontheweb_](https://www.twitter.com/georgeontheweb_")
+If you find something interesting and want to share feedback or connect reach out to me [@georgeontheweb_](https://www.twitter.com/georgeontheweb_)
