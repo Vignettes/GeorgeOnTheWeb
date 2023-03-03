@@ -17,14 +17,11 @@ My name is [George Wolf](</notes/George Wolf.md>) and my passion is <em>encourag
 This site is my digital filing cabinet. 
 The trick is that I forgot to buy folders, but I did staple some files into packets. 
 
-// Maps of Content //
+I created this to stay focused on my [Why](/notes/why.md).
+Which became a place to talk about [Projects](/notes/projects.md) and [Hobbies](/notes/hobbies.md)
 
-[Why](/notes/why.md) // ❔
+[Agility](/notes/agility.md) fit in as a topic related to projects. 
 
-[Projects](/notes/projects.md) // 🧩
+And the [Reflections](/notes/reflections.md) keep me aligned to my values. 
 
-[Hobbies](/notes/hobbies.md) // 🎸
-
-[Agility](/notes/agility.md) // ♻️
-
-[Reflections](/notes/reflections.md) // 🪞
+If you find something interesting and want to share feedback or connect reach out to me [@georgeontheweb_](https://www.twitter.com/georgeontheweb_")
