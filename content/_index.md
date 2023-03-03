@@ -6,17 +6,21 @@ enableToc: false
 > We're all just making it up as 
 > we go along. No one really knows 
 > what they're doing.
-> - A.S. King
+>- A.S. King
 
-Fancy seeing you here. This site is my digital filing cabinet. 
+Fancy seeing you here! 
+
+This site is my digital filing cabinet. 
 The trick is all the files have links, making digital rabbit holes even easier to chase. 
 
 // Maps of Content //
 
-[Projects](/notes/projects.md)
+[Why](/notes/why.md) // ❔
 
-[Hobbies](/notes/hobbies.md)
+[Projects](/notes/projects.md) // 🧩
 
-[Agility](/notes/agility.md)
+[Hobbies](/notes/hobbies.md) // 🎸
 
-[Reflections](/notes/reflections.md)
+[Agility](/notes/agility.md) // ♻️
+
+[Reflections](/notes/reflections.md) // 🪞
