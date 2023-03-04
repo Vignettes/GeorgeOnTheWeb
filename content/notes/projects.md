@@ -11,6 +11,7 @@ tags: Projects
 # Trying
 
 # Continue With
+[pythonicGardening](/notes/pythonicGardening.md)
 
 # Failures
 
