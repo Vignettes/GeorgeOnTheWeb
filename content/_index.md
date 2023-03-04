@@ -16,7 +16,7 @@ My name is [George Wolf](/notes/George%20Wolf.md) and my passion is <em>creating
 This site is my digital filing cabinet. 
 The trick is that I forgot to buy folders, but I did staple some files into packets. 
 
-I created this to stay focused on my [Why](/notes/why.md).
+I created this to stay focused on my [Why](/notes/George%20Wolf.md#Why?).
 Which became a place to talk about [Projects](/notes/projects.md) and [Hobbies](/notes/hobbies.md)
 
 [Agility](/notes/agility.md) fit in as a topic related to projects. Which also meant [Entrepreneurship](/notes/entrepreneurship.md) got pulled in.
