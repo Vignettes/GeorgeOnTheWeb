@@ -1,5 +1,5 @@
 ---
-title: "Hobbies"
+title: "Projects"
 tags: Projects
 ---
 [Home](/)
