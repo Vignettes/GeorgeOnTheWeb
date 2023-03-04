@@ -1,5 +1,5 @@
 ---
-title: "pythonicGardening
+title: "pythonicGardening"
 enableToc: false
 tags: ["Projects"]
 ---
