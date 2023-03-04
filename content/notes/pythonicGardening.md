@@ -1,8 +1,9 @@
 ---
 title: "pythonicGardening
 enableToc: false
-tags: Projects
+tags: ["Projects"]
 ---
+
 # Why?
 I found that I was delaying adding notes to my digital garden if it took much time out of my day. Most of the time I just want to create a quick note in the moment and come back to it later. 
 
