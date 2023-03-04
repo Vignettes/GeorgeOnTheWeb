@@ -1,0 +1,8 @@
+
+ajfak
+=====
+
+
+---
+title: {fileTitle}
+---
