@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Hobbies"
 ---
 [Home](/)
 # Will need to add content here.
