@@ -7,7 +7,7 @@ tags: test
 > Confine yourself to the present. 
 >- Marcus Aurelius
 
-The [stoics](/notes/stoicism.md) advice seems to go against the modern world. 
+The [Stoics](/notes/stoics.md) advice seems to go against the modern world. 
 How does one live in the present when our lives demand a plan for the future, require big long-term projects and depend on people outside of our influence?
 
 ![me](https://i.ibb.co/2MycKDW/62-A4-E34-B-6-C02-47-FA-8-DD6-379-DAC7-DD624.jpg)
