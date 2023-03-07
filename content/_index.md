@@ -17,10 +17,8 @@ This site is my digital filing cabinet.
 The trick is that I forgot to buy folders, but I did staple some files into packets. 
 
 I created this to stay focused on my [Why](/notes/George%20Wolf.md#Why?).
-Which became a place to talk about [Projects](/notes/projects.md) and [Hobbies](/notes/hobbies.md)
+Which became a place to talk about [Projects](/notes/projects.md).
 
-[Agility](/notes/agility.md) fit in as a topic related to projects. Which also meant [Entrepreneurship](/notes/entrepreneurship.md) got pulled in.
-
-And the [Reflections](/notes/reflections.md) keep me aligned to my values. 
+The [Reflections](/notes/reflections.md) keep me aligned to my values.
 
 If you find something interesting and want to share feedback or connect reach out to me [@georgeontheweb_](https://www.twitter.com/georgeontheweb_).
