@@ -12,6 +12,8 @@ tags: Projects
 # Continue With
 [pythonicGardening](/notes/pythonicGardening.md)
 
+[Leveraging ChatGPT With No-Code Tools](chatgptandopenai.md)
+
 # Failures
 
 # Success
