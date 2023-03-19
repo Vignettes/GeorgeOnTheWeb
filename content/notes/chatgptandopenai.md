@@ -50,7 +50,7 @@ Because we want to test the value of these features upfront. As there are additi
 Once you have defined your Bubble app idea and planned your chatbot features, you can integrate ChatGPT with your app using Bubble's API Connector plugin. To do this, follow these steps:
 
 ### Sign up for the OpenAI API and generate an API key
-- From [OpenAI's API documentation](https://platform.openai.com/docs/introduction) navigate to the top-right and select "View API keys"
+- From [OpenAI's API documentation](https://platform.openai.com/docs/introduction) navigate to the top-right and select ["View API keys"](https://platform.openai.com/account/api-keys)
 	- If you do not have an account you'll need to set one up first, and provide a billing method
 - Select "Create a new secret key"
 	- Do not share this key, be sure to store it securely as you'll need it in future steps
@@ -136,7 +136,7 @@ We're going to assume you're somewhat familiar with Bubble and that you have an 
 
 ![bubbleapi2](notes/images/bubbleapi2.png)
 
-## Step 5: Designing The App In Bubble
+## Step 6: Designing The App In Bubble
 We're going to use a very simply user interface that just accepts the 3 parameters that the user provides and returns the response from our prompt via API.
 
 - From your Bubble app select "Input" from the "Input Forms" section and create 3 fields. 
@@ -172,7 +172,7 @@ We're going to use a very simply user interface that just accepts the 3 paramete
 
 ![restponsetext](notes/images/response.png)
 
-## Step 6: Test It Out
+## Step 7: Test It Out
 Select "Preview" and enter some test data.
 
 ![chatgptbubbleex](notes/images/chatgptbubbleex.png)
@@ -185,7 +185,7 @@ In the image above we can see that the API returns the following successfully:
 
 You'll want to validate that it works on multiple devices, and test a variety of potential parameters to validate it's working as intended.
 
-## Step 7: Validate It With Users
+## Step 8: Validate It With Users
 Release it to a few individuals that match your target customer. You may find it beneficial to add in survey features, or to collect the data they are passing through to the prompt to help you better understand how they're using it.
 
 If everything is functioning as intended it's time to add in the payment feature and to start looking to add some of your other potential features and features you hear requested from your customers.
