@@ -55,12 +55,12 @@ Once you have defined your Bubble app idea and planned your chatbot features, yo
 - Select "Create a new secret key"
 	- Do not share this key, be sure to store it securely as you'll need it in future steps
 
-![api](notes/images/apikey.png)
+![api](images/apikey.png)
 
 > [!warning] 
 > It is recommended that you set a usage limit to avoid spend more than intended while building your MVP, to do that navigate to Billing > Usage limits 
 
-![usagelimits](notes/images/usagelimits.png)
+![usagelimits](images/usagelimits.png)
 
 ## Step 4: Setting Up Our Prompt With OpenAI
 - Select ["Playground"](https://platform.openai.com/playground/) from the top navigation bar
@@ -98,7 +98,7 @@ when you paste the code into the Bubble API connector plugin they will automatic
 
 Select "View code " in the top right and then "json" before copying the provided code. You can save the prompt, or store this code until you are ready to use it in future steps. 
 
-![viewcode](notes/images/viewcode.png)
+![viewcode](images/viewcode.png)
 
 ## Step 5: Setting Up Bubble With Our OpenAI API
 We're going to assume you're somewhat familiar with Bubble and that you have an account. But if you don't, be sure to create an account by going to [Bubble.io](http://bubble.io). 
@@ -123,7 +123,7 @@ We're going to assume you're somewhat familiar with Bubble and that you have an 
 - In the field next to POST supply the following value
   ```https://api.openai.com/v1/completions```
 
-![bubbleapi1](notes/images/bubbleapi1.png)
+![bubbleapi1](images/bubbleapi1.png)
 
 - Select "Expand" in the area where the "Name" field is so that all options can be viewed
 - You can alter the name, we will use the name "userstory"
@@ -134,7 +134,7 @@ We're going to assume you're somewhat familiar with Bubble and that you have an 
 - Ensure that "Private" is not selected
 - Select "Initialize call" to validate that it is working as intended
 
-![bubbleapi2](notes/images/bubbleapi2.png)
+![bubbleapi2](images/bubbleapi2.png)
 
 ## Step 6: Designing The App In Bubble
 We're going to use a very simply user interface that just accepts the 3 parameters that the user provides and returns the response from our prompt via API.
@@ -142,40 +142,40 @@ We're going to use a very simply user interface that just accepts the 3 paramete
 - From your Bubble app select "Input" from the "Input Forms" section and create 3 fields. 
 - Change the names to "Goal", "Persona", and "Acceptance Criteria"
 
-![bubbletext](notes/images/bubbletext.png)
+![bubbletext](images/bubbletext.png)
 
 - Add a "Button" element from the "Visual Elements" section
 - Title it "Submit" 
 
-![bubblesubmit](notes/images/bubblesubmit.png)
+![bubblesubmit](images/bubblesubmit.png)
 
 - Add a "Text" field from the "Visual Elements" section, title it "Response"
 - Select your "Submit" button and hit "Start/edit workflow"
 - For Step 1 select "Plugins" then the name of your API
 
-![bubbleapicall](notes/images/bubbleapicall.png)
+![bubbleapicall](images/bubbleapicall.png)
 
 - Set the API call options to match the image
 
-![bubbleworkflow1](notes/images/bubbleapival.png)
+![bubbleworkflow1](images/bubbleapival.png)
 
 - Add a 2nd step to set a custom state
 
-![bubblecustomstate](notes/images/customstate.png)
+![bubblecustomstate](images/customstate.png)
 
 - We'll use the text field "Response" as the element and you can name the custom state whatever you'd like
 - Match the Value to the image below 
 
-![customstate2](notes/images/customstate2.png)
+![customstate2](images/customstate2.png)
 
 - Set your "Response" text field to display "Response's Response" refer to the image below
 
-![restponsetext](notes/images/response.png)
+![restponsetext](images/response.png)
 
 ## Step 7: Test It Out
 Select "Preview" and enter some test data.
 
-![chatgptbubbleex](notes/images/chatgptbubbleex.png)
+![chatgptbubbleex](images/chatgptbubbleex.png)
 
 In the image above we can see that the API returns the following successfully:
 - User story description
