@@ -16,7 +16,7 @@ My name is [George Wolf](/George/George%20Wolf.md) and my passion is <em>creatin
 This site is my digital filing cabinet. 
 The trick is that I forgot to buy folders, but I did staple some files into packets. 
 
-I created this to stay focused on my [Why](/George/George%20Wolf.md#Why?).
+I created this to stay focused on my [Why](/George/GeorgeWolf.md#Why?).
 Which became a place to talk about [Projects](/George/projects.md).
 
 The [Reflections](/George/reflections.md) keep me aligned to my values.
