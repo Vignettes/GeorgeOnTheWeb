@@ -1,5 +1,5 @@
 ---
-title: "George Wolf🐺"
+title: "George Wolf 🐺"
 ---
 > [!quote] 
 > People don't buy what you do, they buy why you do it.
@@ -14,8 +14,7 @@ title: "George Wolf🐺"
     - a better future 
 - Communities over corporations 
     - a connected tribe 
-
-![me](/images/george.png)
+    
 # How?
 - Connecting with others who share my vision
     - to add strength to the network

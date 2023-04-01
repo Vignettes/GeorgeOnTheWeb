@@ -36,7 +36,6 @@ Below are some potential features:
 
 ### Our MVP Features 
 Again, we want to invest the minimal amount of time to validate that this creates value for our potential customers. Thinking it through that lens what we'l implement initially is:
-
 1) Single user story creation 
 	1) AI identified acceptance criteria
 	2) AI identified sub-tasks
@@ -55,6 +54,7 @@ Once you have defined your Bubble app idea and planned your chatbot features, yo
 - Select "Create a new secret key"
 	- Do not share this key, be sure to store it securely as you'll need it in future steps
 
+![pic](notes/images/apikey.png)
 ![api](images/apikey.png)
 
 > [!warning] 
