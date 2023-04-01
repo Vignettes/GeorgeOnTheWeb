@@ -10,10 +10,7 @@ tags: Projects
 # Trying
 
 # Continue With
-[pythonicGardening](pythonicGardening.md)
-
-[Leveraging ChatGPT With No-Code Tools](chatgptandopenai.md)
-
+[[chatgptandopenai]]
 # Failures
 
 # Success
