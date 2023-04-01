@@ -12,7 +12,7 @@ How does one live in the present when our lives demand a plan for the future, re
 
 ![me](https://i.ibb.co/2MycKDW/62-A4-E34-B-6-C02-47-FA-8-DD6-379-DAC7-DD624.jpg)
 
-My name is [George Wolf](/George/George%20Wolf.md) and my passion is <em>creating, enabling and encouraging innovation</em>.
+My name is [George Wolf](/George/GeorgeWolf.md) and my passion is <em>creating, enabling and encouraging innovation</em>.
 This site is my digital filing cabinet. 
 The trick is that I forgot to buy folders, but I did staple some files into packets. 
 

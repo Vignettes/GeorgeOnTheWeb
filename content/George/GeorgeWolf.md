@@ -15,6 +15,7 @@ title: "George Wolf🐺"
 - Communities over corporations 
     - a connected tribe 
 
+![me](/images/george.png)
 # How?
 - Connecting with others who share my vision
     - to add strength to the network
